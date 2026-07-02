@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 # Hey, I'm Sankalp Gupta 👋
@@ -163,4 +163,3 @@ Real-time Chat Application
 If you like my work, feel free to ⭐ my repositories.
 
 </div>
-````
