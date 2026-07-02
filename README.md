@@ -1,16 +1,86 @@
-## Hi there 👋
+# Hi, I'm Sankalp Gupta 👋
 
-<!--
-**Sankalpgupta0/Sankalpgupta0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on building scalable software and AI-powered applications.
 
-Here are some ideas to get you started:
+Currently:
+- 🚀 CTO & Co-founder at Koshpal
+- 💻 Building AI, backend systems and web applications
+- 🌱 Learning Data Engineering & Distributed Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages**
+
+TypeScript • JavaScript • Python • SQL • Java
+
+**Backend**
+
+NestJS • Node.js • Express • Prisma
+
+**Frontend**
+
+React • Next.js • Tailwind CSS
+
+**Databases**
+
+PostgreSQL • MongoDB • Redis
+
+**Cloud & DevOps**
+
+Docker • Nginx • PM2 • GitHub Actions
+
+**Data**
+
+Databricks • PySpark • Azure Data Lake
+
+---
+
+## Featured Projects
+
+### Koshpal
+Financial wellness platform helping organizations improve employee financial health.
+
+Tech:
+NestJS • React • PostgreSQL • Redis • Docker
+
+---
+
+### VideoTube
+
+A full-stack video streaming platform inspired by YouTube.
+
+Features
+
+- Authentication
+- Video Uploads
+- Comments
+- Playlists
+- Likes
+- Watch History
+
+---
+
+### ConvoHub
+
+Real-time chat application built using WebSockets.
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Sankalpgupta0&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpgupta0&layout=compact&hide_border=true)
+
+---
+
+## Connect
+
+LinkedIn:
+<your-link>
+
+Portfolio:
+<your-portfolio>
+
+Email:
+<your-email>
