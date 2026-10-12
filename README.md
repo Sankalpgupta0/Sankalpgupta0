@@ -3,40 +3,6 @@
 
 # Hey, I'm Sankalp Gupta 👋
 
-### 🎓 Final Year B.Tech Student | 🚀 CTO & Co-founder @ Koshpal | 💻 Full Stack Developer | 🤖 AI Enthusiast
-
-*"Building products, breaking things, fixing them at 3 AM."*
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Building+Koshpal;Full+Stack+Developer;Backend+Engineer;Learning+Data+Engineering;AI+%7C+NestJS+%7C+React+%7C+Python" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```ts
-const sankalp = {
-    education: "Final Year B.Tech",
-    role: "CTO & Co-founder @ Koshpal",
-    location: "India 🇮🇳",
-
-    currentlyBuilding: [
-        "Koshpal",
-        "AI Applications",
-        "Scalable Backend Systems"
-    ],
-
-    currentlyLearning: [
-        "Data Engineering",
-        "Distributed Systems",
-        "LLMs"
-    ],
-
-    funFact: "I debug better after midnight 🌙"
-}
-```
-
 ---
 
 ## 🚀 Tech Stack
@@ -83,60 +49,6 @@ const sankalp = {
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge)
 
 ---
-
-# 🚀 Current Focus
-
-- 💼 Building **Koshpal**
-- 🤖 AI-powered applications
-- ☁️ Backend Architecture
-- 📊 Data Engineering
-- 🧠 System Design
-- 🐳 DevOps
-
----
-
-# 📌 Featured Projects
-
-### 🚀 Koshpal
-
-Financial Wellness Platform helping companies improve employee financial health.
-
-**Tech**
-
-NestJS • React • PostgreSQL • Redis • Docker
-
----
-
-### 🎥 VideoTube
-
-A YouTube-inspired streaming platform.
-
-- Authentication
-- Video Upload
-- Comments
-- Playlists
-- Watch History
-
----
-
-### 💬 ConvoHub
-
-Real-time Chat Application
-
-- WebSockets
-- JWT
-- Authentication
-- Live Messaging
-
----
-
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Sankalpgupta0&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpgupta0&layout=compact&theme=tokyonight&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=Sankalpgupta0&theme=tokyonight&hide_border=true)
 
 ## 🐍 Contribution Graph
 
